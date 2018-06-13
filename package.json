@@ -1,0 +1,15 @@
+{
+  "name": "wallaby-1704",
+  "version": "1.0.0",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "browserify": "^16.2.2",
+    "electron": "^2.0.2",
+    "proxyquire": "^2.0.1",
+    "proxyquireify": "^3.2.1",
+    "wallabify-proxyquire-postprocessor": "^1.0.0"
+  }
+}
